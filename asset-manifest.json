@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-0-to-mastery/static/css/main.b1c412f8.chunk.css",
+    "main.js": "/react-0-to-mastery/static/js/main.596ee643.chunk.js",
+    "main.js.map": "/react-0-to-mastery/static/js/main.596ee643.chunk.js.map",
+    "runtime-main.js": "/react-0-to-mastery/static/js/runtime-main.2ae4dd54.js",
+    "runtime-main.js.map": "/react-0-to-mastery/static/js/runtime-main.2ae4dd54.js.map",
+    "static/js/2.5e776654.chunk.js": "/react-0-to-mastery/static/js/2.5e776654.chunk.js",
+    "static/js/2.5e776654.chunk.js.map": "/react-0-to-mastery/static/js/2.5e776654.chunk.js.map",
+    "index.html": "/react-0-to-mastery/index.html",
+    "precache-manifest.534598ff29f9517991ad25e392a0bbb9.js": "/react-0-to-mastery/precache-manifest.534598ff29f9517991ad25e392a0bbb9.js",
+    "service-worker.js": "/react-0-to-mastery/service-worker.js",
+    "static/css/main.b1c412f8.chunk.css.map": "/react-0-to-mastery/static/css/main.b1c412f8.chunk.css.map",
+    "static/js/2.5e776654.chunk.js.LICENSE.txt": "/react-0-to-mastery/static/js/2.5e776654.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ae4dd54.js",
+    "static/js/2.5e776654.chunk.js",
+    "static/css/main.b1c412f8.chunk.css",
+    "static/js/main.596ee643.chunk.js"
+  ]
+}
